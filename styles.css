@@ -52,6 +52,10 @@ main {
 	margin-top: 150px;
 }
 
+#logo {
+	margin-bottom: 40px;
+}
+
 .wrapper {
 	position: relative;
 	display: flex;
