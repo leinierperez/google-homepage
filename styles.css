@@ -43,3 +43,39 @@ nav ul li {
 #store {
 	margin-right: 102em;
 }
+
+main {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin-top: 150px;
+}
+
+.wrapper {
+	position: relative;
+	display: flex;
+}
+
+.search-icon {
+	position: absolute;
+	top: 11px;
+	left: 6px;
+	width: 28px;
+}
+
+.search {
+	border: 1px solid grey;
+	border-radius: 26px;
+	height: 20px;
+	width: 550px;
+	padding: 8px 36px;
+}
+
+.btn {
+	margin: 24px 8px;
+	padding: 12px 18px;
+	border: none;
+	background-color: rgb(243, 243, 244);
+	border-radius: 5px;
+}
