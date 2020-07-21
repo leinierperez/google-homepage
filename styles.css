@@ -1,0 +1,45 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+ul {
+	list-style-type: none;
+}
+
+.main-nav {
+	display: flex;
+	font-size: 15px;
+}
+a {
+	text-decoration: none;
+	color: #3f3f3f;
+}
+
+.app-img {
+	height: 3em;
+	margin-top: 17.2px;
+}
+
+#sign-in-button {
+	color: white;
+	background-color: rgb(74, 132, 245);
+	padding: 8px 14px;
+	margin-top: -8px;
+	text-align: center;
+	border: none;
+	border-radius: 5%;
+	font-size: 16px;
+}
+
+nav ul li {
+	margin: 20px 0 20px 20px;
+}
+
+#apps {
+	height: 50%;
+}
+
+#store {
+	margin-right: 102em;
+}
